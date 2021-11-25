@@ -13,7 +13,7 @@ namespace NewCards.Consola
         static void Main(string[] args)
         {
             FabricaDeMazosDeCartas fabrica = new FabricaDeMazosDeCartas();
-            var mazo = fabrica.CrearMazo(TipoCarta.Espaniola50);
+            var mazo = fabrica.CrearMazo(TipoCarta.FrancesaSinComodin);
             foreach (var carta in mazo.GetCartas())
             {
                 Console.WriteLine(carta.ToString());

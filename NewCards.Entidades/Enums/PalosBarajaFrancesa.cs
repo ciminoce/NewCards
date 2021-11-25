@@ -8,9 +8,9 @@ namespace NewCards.Entidades.Enums
 {
     public enum PalosBarajaFrancesa
     {
-        Diamantes,
-        Corazones,
-        Picas,
-        Treboles
+        Trebol,
+        Diamante,
+        Corazon,
+        Pica
     }
 }

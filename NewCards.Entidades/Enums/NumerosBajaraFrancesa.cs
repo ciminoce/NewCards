@@ -21,6 +21,7 @@ namespace NewCards.Entidades.Enums
         Jack,
         Queen,
         King
+        
 
     }
 }

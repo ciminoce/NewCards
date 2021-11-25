@@ -12,7 +12,7 @@ namespace NewCards.Entidades.Entidades
     {
         public string Palo { get; set; }
         public string Numero { get; set; }
-        public Image Image { get; set; }
+        public Image Imagen { get; set; }
         public override string ToString()
         {
             return $"{Numero} de {Palo}";

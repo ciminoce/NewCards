@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NewCards.Entidades.Enums
 {
-    public enum PalosBarajsEspaniolas
+    public enum PalosBarajaEspaniolas
     {
         Oros,
         Espadas,
